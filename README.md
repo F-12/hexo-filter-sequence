@@ -1,6 +1,6 @@
 # hexo-filter-sequence
 
-[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-sequence/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/F-12/hexo-filter-sequence/blob/master/LICENSE)
 
 [![npm:](https://img.shields.io/npm/v/hexo-filter-sequence.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-sequence)
 [![Package Quality](http://npm.packagequality.com/shield/hexo-filter-sequence.svg)](http://packagequality.com/#?package=hexo-filter-sequence)
@@ -23,7 +23,7 @@ This plugin is based on [js-sequence-diagrams](https://github.com/bramp/js-seque
     Bob-->Alice: I am good thanks!
     ```
 
-![snapshot.svg](https://cdn.rawgit.com/bubkoo/hexo-filter-sequence/master/snapshot.svg)
+![snapshot.svg](https://cdn.rawgit.com/F-12/hexo-filter-sequence/master/snapshot.svg)
 
 ## Config
    
@@ -70,4 +70,4 @@ Your config will be merged into default config:
 
 Pull requests and stars are highly welcome.
 
-For bugs and feature requests, please [create an issue](https://github.com/bubkoo/hexo-filter-sequence/issues/new).
+For bugs and feature requests, please [create an issue](https://github.com/F-12/hexo-filter-sequence/issues/new).
